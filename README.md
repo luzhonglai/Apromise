@@ -1,0 +1,2 @@
+# Apromise
+阅读Promise源码实现原理，并手写实现一个A规范的Promise构造函数
